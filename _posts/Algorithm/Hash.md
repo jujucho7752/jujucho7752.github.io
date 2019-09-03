@@ -39,7 +39,7 @@ class Solution {
 		return answer;
 	}
 }
-```java
+```
 
 ### 다른사람 풀이
 
