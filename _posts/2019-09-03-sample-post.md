@@ -5,14 +5,21 @@ description: "정리 블로그를 시작하게 되었다"
 modified: 2019-09-03
 tags: LifeStyle
 image:
-  path: /images/abstract-3.jpg
-  feature: abstract-3.jpg
-  credit: dargadgetz
-  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
+  path: -
+  feature: -
+  credit: -
+  creditlink: -
 ---
 
-2019-09-03 GitHub 블로그 시작
-목적 : 개발 지식 정리
+## 2019-09-03 GitHub 블로그 시작
+**목적 :** 개발 지식 정리
+**작성자 :** JUJU
+
+### Category
+
+* Java
+* Javascript
+* Algorithm
 
 
 
