@@ -9,9 +9,9 @@ image:
   feature: abstract-10.jpg
 ---
 
-**[programmers][Java]**
+**[programmers] & [Java]**
 ## Hash 알고리즘
-완주하지 못한 선수의 이름
+** 문제 :** 완주하지 못한 선수의 이름
 
 ### 내 코드
 ```java
