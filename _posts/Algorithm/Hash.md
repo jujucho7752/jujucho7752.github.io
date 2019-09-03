@@ -14,7 +14,7 @@ image:
 완주하지 못한 선수의 이름
 
 ### 내 코드
-
+```java
 import java.util.HashMap;
 import java.util.Map;
 
@@ -39,5 +39,12 @@ class Solution {
 		return answer;
 	}
 }
+```java
+
+### 다른사람 풀이
+
+
+### 배울점
+hashmap getOrDefault() : key 값이 없으면 두번째 인자 반환
 
 
